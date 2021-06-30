@@ -1,4 +1,4 @@
-name: 京东首页领京豆
+name: 中青分享阅读
 
 on:
     workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
             - name: npm install
               run: |
                   npm install
-            - name: "运行 【首页-领京豆】"
+            - name: "运行 【中青分享】"
               run: |
                   node youthshare.js
               env:
