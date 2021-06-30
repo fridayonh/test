@@ -3,7 +3,11 @@ let md5 = require('md5-node');
 let nowTime;
 let wxck;
 let articles = [
-  ""
+  	"https://focu.youth.cn/newthreehot/20210628?sid=39197603&uid=54120393&timestamp=1625044720&signature=5NPeoJjl0pEAqLZYQM4q2MLJXT8Y85A7692Vrk3gBdwXDyWK8b&scene_id=fire_share&share_id=54120393391976031625044728&time=1625044728",
+	"https://focu.youth.cn/newthreehot/20210626?sid=39191760&uid=54120393&timestamp=1625044720&signature=5yNLlPgo6r98RX0bMW7YYyBmWUMqMlN7KEVpwGOxvAqDZzBJdm&scene_id=fire_share&share_id=54120393391917601625044808&time=1625044808",
+	"https://focu.youth.cn/newthreehot/20210628?sid=39197664&uid=54120393&timestamp=1625044720&signature=P9pJjlO2MYzBWndV0kar2nq3bt9y9NMa5bxer3EwLKA6RG8yvX&scene_id=fire_share&share_id=54120393391976641625044887&time=1625044887",
+	"https://focu.youth.cn/newthreehot/20210624?sid=39171658&uid=54120393&timestamp=1625044720&signature=dvG9ReJyYL36goEAWV46lwvBQImomKJaMQD0OPmnkw5jBl2X8Z&scene_id=fire_share&share_id=54120393391716581625044956&time=1625044956",
+	"https://focu.youth.cn/newthreehot/20210628?sid=39200173&uid=54120393&timestamp=1625044720&signature=DJ5qQLk6jVvNWEzxlO70KXqllTGEGzR40BGyPngp83Zm9KYreM&scene_id=fire_share&share_id=54120393392001731625045055&time=1625045055",
 ];
 let articles1 = [
     ];
