@@ -12,6 +12,11 @@ let articles = [
 "https://focu.youth.cn/newonehot/20210627?sid=39194172&uid=2010311&timestamp=1625042094&signature=mNqylzJV6MGKj23RQPraW6XByetWK8k7EYOAgBndo9ZkDbepv5&share_id=2010311391941721625042209394&scene_id=fire_share&time=1625042209394&uid=2010311&phone_code=c6c8e8eaa34cc4e031f381fdd47c3fd3&time=1625042209&app_version=1.8.2&sign=caf1451b7407d1959fbe9d575e9acc09",
 ];
 let articles1 = [
+	"https://focu.youth.cn/newsixhot/20210630?sid=39217102&uid=47144846&timestamp=1625043317&signature=P9pJjlO2MYzBWndV0kar2ng58Ir8yOWa5bxer3EwLKA6RG8yvX&share_id=47144846392171021625043450612&scene_id=fire_share&time=1625043450612&uid=47144846&phone_code=b97355fa35aba0b064badfcd236c31fa&time=1625043451&app_version=2.0.0.1&sign=5e071f07e7bdd50eab8f21eccf877922",
+	"https://focu.youth.cn/newsixhot/20210630?sid=39214853&uid=47144846&timestamp=1625043317&signature=Qg9jzmlY6xZnPq3DGO1dEZoz2twVWoQ4XrLEVMWpRd8Neb0JkA&share_id=47144846392148531625043689500&scene_id=fire_share&time=1625043689501&uid=47144846&phone_code=b97355fa35aba0b064badfcd236c31fa&time=1625043690&app_version=2.0.0.1&sign=f8ea2b3eba93c80f68ae332e9e367c5b",
+	"https://focu.youth.cn/newsixhot/20210629?sid=39207175&uid=47144846&timestamp=1625043317&signature=nG63ezAQDowMB0vlYg4k05LKJc3PBw07L8KN5yR9XpjPOxrbdE&share_id=47144846392071751625043795869&scene_id=fire_share&time=1625043795869&uid=47144846&phone_code=b97355fa35aba0b064badfcd236c31fa&time=1625043796&app_version=2.0.0.1&sign=a9a26ced47212799c5d4b072d8d7b925",
+	"https://focu.youth.cn/newsixhot/20210630?sid=39214967&uid=47144846&timestamp=1625043317&signature=NXjrme82G3An0wVvWpamvV8AqFqw3mZ1gq9dJKyL5YRxElM6Zo&share_id=47144846392149671625043923630&scene_id=fire_share&time=1625043923630&uid=47144846&phone_code=b97355fa35aba0b064badfcd236c31fa&time=1625043924&app_version=2.0.0.1&sign=adb77e26a488a59504b9032b8431ddeb",
+	"https://focu.youth.cn/newsixhot/20210628?sid=39198666&uid=47144846&timestamp=1625043317&signature=vg9Vr5WAX3dJejlq6GaJByrBPH2PvXLawoYk2PpNxbRZEDzmnL&share_id=47144846391986661625044009381&scene_id=fire_share&time=1625044009382&uid=47144846&phone_code=b97355fa35aba0b064badfcd236c31fa&time=1625044009&app_version=2.0.0.1&sign=3f63311145aa999033c095854aadee89",
 ];
 let encodearticles;
 
